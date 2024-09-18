@@ -37,17 +37,17 @@ RESOURCES 
 
 You need to figure out what numbers to plug in to get the desired behavior: 
 ------
-ellipse(?, ?, ? , ?) ( x, y coordinates of the center, width, height )
-createCanvas(?, ?) (defines your workspace)
-rect(?, ?, ?, ?); ( x, y coordinates of top left corner, width, height ) 
-line(?, ?, ?, ?); (x, y coordinates of first point, x, y of second point)
-strokeWeight(?); (0=almost invisible, 20+=very thick)
-stroke(r, g, b); ( 0-255, 0-255, 0-255 )
-fill(r, g, b); 
-noStroke();
-noFill();
-// single line comment
-/* multi line comment */ 
+ellipse(?, ?, ? , ?) ( x, y coordinates of the center, width, height )<br/>
+createCanvas(?, ?) (defines your workspace)<br/>
+rect(?, ?, ?, ?); ( x, y coordinates of top left corner, width, height ) <br/>
+line(?, ?, ?, ?); (x, y coordinates of first point, x, y of second point)<br/>
+strokeWeight(?); (0=almost invisible, 20+=very thick)<br/>
+stroke(r, g, b); ( 0-255, 0-255, 0-255 )<br/>
+fill(r, g, b); <br/>
+noStroke();<br/>
+noFill();<br/>
+// single line comment<br/>
+/* multi line comment */ <br/>
 
 
 
